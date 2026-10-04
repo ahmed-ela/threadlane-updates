@@ -1,7 +1,18 @@
 {
   "addons": {
     "threadlane@extensions.invalid": {
-      "updates": []
+      "updates": [
+        {
+          "version": "0.3.2",
+          "update_link": "https://github.com/ahmed-ela/threadlane-updates/releases/download/firefox-v0.3.2/threadlane-firefox-0.3.2.xpi",
+          "update_hash": "sha256:b44dfdef9225b4101a02b27120dc46684be799c91d4ca45b2ec1754ce30ca71a",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        }
+      ]
     }
   }
 }
